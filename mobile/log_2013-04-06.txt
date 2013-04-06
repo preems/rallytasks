@@ -1,0 +1,50 @@
+2013-04-06 9:15:55 - INFO --> 127.0.0.1 --> Index.php: Session not found. Redirecting to login.php
+2013-04-06 9:15:55 - INFO --> 127.0.0.1 --> Login.php: Prompted user for credentials
+2013-04-06 9:16:07 - INFO --> 127.0.0.1 --> Login.php: Prompted user for credentials
+2013-04-06 9:17:37 - INFO --> 127.0.0.1 --> Login.php: Prompted user for credentials
+2013-04-06 9:17:39 - INFO --> 127.0.0.1 --> Login.php: Prompted user for credentials
+2013-04-06 9:18:58 - INFO --> 192.168.1.2 --> Index.php: Session not found. Redirecting to login.php
+2013-04-06 9:18:58 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
+2013-04-06 9:23:22 - INFO --> 127.0.0.1 --> Login.php: Prompted user for credentials
+2013-04-06 9:23:25 - INFO --> 127.0.0.1 --> Login.php: Prompted user for credentials
+2013-04-06 9:25:26 - INFO --> 127.0.0.1 --> Login.php: Prompted user for credentials
+2013-04-06 9:28:45 - INFO --> 192.168.1.2 --> Index.php: Session not found. Redirecting to login.php
+2013-04-06 9:28:45 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
+2013-04-06 9:29:46 - INFO --> 192.168.1.2 --> Login.php: Received POST data. Redirecting to index.php
+2013-04-06 9:29:47 - INFO --> 192.168.1.2 --> Index.php: Session found with username: preems@ cisco.com. variables set
+2013-04-06 9:29:50 - INFO --> 192.168.1.2 --> Index.php: Authentication failed. Redirecting to login.php?reason=auth
+2013-04-06 9:29:50 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
+2013-04-06 9:30:16 - INFO --> 192.168.1.2 --> Login.php: Received POST data. Redirecting to index.php
+2013-04-06 9:30:16 - INFO --> 192.168.1.2 --> Index.php: Session found with username: preems@ cisco.com. variables set
+2013-04-06 9:30:17 - INFO --> 192.168.1.2 --> Index.php: Authentication failed. Redirecting to login.php?reason=auth
+2013-04-06 9:30:18 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
+2013-04-06 9:30:56 - INFO --> 192.168.1.2 --> Login.php: Received POST data. Redirecting to index.php
+2013-04-06 9:30:56 - INFO --> 192.168.1.2 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:30:59 - INFO --> 192.168.1.2 --> Index.php: Successfully received Task List
+2013-04-06 9:38:44 - INFO --> 127.0.0.1 --> Login.php: Received POST data. Redirecting to index.php
+2013-04-06 9:38:44 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:38:47 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 9:41:05 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:41:08 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 9:42:31 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:42:34 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 9:45:39 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:45:43 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 9:46:20 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:46:23 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 9:46:47 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:46:50 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 9:47:53 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:47:56 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 9:48:30 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:48:33 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 9:51:21 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 9:51:26 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 10:05:47 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 10:05:52 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 10:06:16 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 10:06:19 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 10:12:18 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 10:12:21 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List
+2013-04-06 10:13:44 - INFO --> 127.0.0.1 --> Index.php: Session found with username: preems@cisco.com. variables set
+2013-04-06 10:13:48 - INFO --> 127.0.0.1 --> Index.php: Successfully received Task List

@@ -1,0 +1,7 @@
+2013-04-06 9:18:43 - INFO --> 192.168.1.2 --> Index.php: Session not found. Redirecting to login.php
+2013-04-06 9:18:43 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
+2013-04-06 9:22:18 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
+2013-04-06 9:25:42 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
+2013-04-06 9:25:45 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
+2013-04-06 9:28:24 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
+2013-04-06 9:28:27 - INFO --> 192.168.1.2 --> Login.php: Prompted user for credentials
