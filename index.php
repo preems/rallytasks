@@ -106,7 +106,7 @@ $(document).ready(function() {
 
 		if(result=="success")
 		{
-			actbutton.addClass('bg-color-green');
+			actbutton.addClass('bg-color-greenDark default');
 			actbutton.next().next().hide();
 		}
 		else
@@ -126,7 +126,7 @@ $(document).ready(function() {
 
 		if(result=="success")
 		{
-			delbutton.addClass('bg-color-green');
+			delbutton.addClass('bg-color-greenDark default');
 			delbutton.next().hide();
 			delbutton.parent().parent().hide();
 		}
@@ -267,6 +267,14 @@ echo '</table>';
 
 ?>
  </div>
+</div>
+<div class="nav-bar bg-color-greenDark">
+<div class="nav-bar-inner padding10">
+<span class="element">
+2013, Rally Task Updater © by
+<a class="fg-color-white" href="mailto:me@preetham.in">Preetham</a>
+</span>
+</div>
 </div>
 </div>
 </body>

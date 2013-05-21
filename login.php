@@ -27,7 +27,7 @@ else
 <!DOCTYPE html>
 <head>
 <title>Rally Tasks</title>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="modern.css">
 <link rel="stylesheet" type="text/css" href="modern-responsive.css">
 <script language="javascript" src="jquery.js" type="text/javascript"></script>
